@@ -1,0 +1,21 @@
+{
+	"md_symbols": [{
+			"id": 1,
+			"Symbol": "testSymbol",
+			"RIC": "testRic",
+			"ISIN": "testISIN"
+		},
+		{
+			"id": 2,
+			"Symbol": "testSymbol1",
+			"RIC": "testRic1",
+			"ISIN": "testISIN1"
+		},
+		{
+			"id": 3,
+			"Symbol": "testSymbol2",
+			"RIC": "testRic2",
+			"ISIN": "testISIN2"
+		}
+	]
+}
